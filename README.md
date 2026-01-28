@@ -61,11 +61,4 @@ fish-classification/
   ![3Dplot](image.png)
   ![Confusion Matrix](image1.png)
 
-## Contributions
-
-Contributions are welcome! Fork the repository, make your improvements, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
